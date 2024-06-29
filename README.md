@@ -1,0 +1,1 @@
+# YouTube-Transcript-To-Detailed-Notes-Converter
